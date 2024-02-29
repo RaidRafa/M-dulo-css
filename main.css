@@ -1,0 +1,26 @@
+.TITULOS {
+    background-color: #4169E1;
+    border-left: #4169E1 15px solid;
+}
+
+.página {
+    background-color: #4F4F4F;
+    margin: 0px;
+    border-left: #4F4F4F 10px solid;
+}
+
+.paragrafo {
+    font-style: italic;
+    border-left: white 20px solid;
+    position: relative;
+}
+
+body {
+    margin: 0px;
+}
+
+.main {
+    background-color: black;
+    color: white;
+    border-left: black 12px solid;
+}
